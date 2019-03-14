@@ -1,0 +1,4 @@
+Password is: 1234
+
+Regarding the history: if we want to save more than 5 transactions, we can just remove the if condition from the setHistory method, and its else.
+
